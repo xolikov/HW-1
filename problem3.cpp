@@ -5,6 +5,6 @@ using namespace std;
 int main() {
     double n;
     cin >> n;
-    cout << (n * 1.8) + 32 << endl;
+    cout << "The temperature in Farenheit is equal to " << (n * 1.8) + 32 << endl;
     return 0;
 }
